@@ -1,2 +1,2 @@
-# codeAlpha_Basic-ChatBox
+# codeAlpha_BasicChatBox
 #codealpha @CodeAlpha
